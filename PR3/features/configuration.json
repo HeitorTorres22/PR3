@@ -1,0 +1,13 @@
+{ 
+	"$schema": "https://raw.githubusercontent.com/liferay/liferay-js-toolkit/master/resources/schemas/configuration.schema.json",
+	"system": {
+		"category": "PR3", 
+		"name": "PR3",
+		"fields": { 
+		} 
+	},
+	"portletInstance": {
+		"fields": { 
+		} 
+	}
+}
